@@ -1,0 +1,4 @@
+Samha,101,BCA
+Amina,102,BCA
+Rahul,103,BSc
+samha,101,bca
