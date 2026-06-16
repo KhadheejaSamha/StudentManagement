@@ -29,4 +29,13 @@ java StudentFileManagement
 
 ## Author
 
-Samha
+
+Samha (BCA Student)
+GitHub: @KhadheejaSamha
+
+## Future Improvements
+
+- Search Student
+- Delete Student
+- Update Student Information
+- Database Integration (MySQL)
